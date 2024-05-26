@@ -1,4 +1,4 @@
-package org.example.ru.finance.tinkoffstockservice
+package ru.finance.tinkoffstockservice
 
 import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.runApplication
